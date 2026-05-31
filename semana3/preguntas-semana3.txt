@@ -1,0 +1,27 @@
+Tarea Guiada · Semana 3
+Nombre: Adrian
+Curso: Programadores para la Paz
+
+========================================
+RESPUESTAS DE SELECCIÓN MÚLTIPLE
+========================================
+
+Pregunta 1: ¿Qué es Git?
+Respuesta: B
+Justificación: Git es un sistema de control de versiones que permite registrar
+los cambios realizados en archivos de un proyecto a lo largo del tiempo.
+
+Pregunta 2: ¿Cuál es la función principal de un repositorio?
+Respuesta: B
+Justificación: Un repositorio es el espacio donde se registran y organizan
+todos los archivos y el historial de cambios de un proyecto.
+
+Pregunta 3: ¿Qué hace el comando git add .?
+Respuesta: B
+Justificación: El comando git add . agrega todos los archivos modificados
+al área de preparación (staging area), listos para ser confirmados con commit.
+
+Pregunta 4: ¿Qué hace el comando git commit?
+Respuesta: A
+Justificación: git commit guarda un registro permanente de los cambios
+preparados, con un mensaje que describe qué se modificó y por qué.

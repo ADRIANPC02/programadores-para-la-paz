@@ -1,0 +1,26 @@
+Tarea Guiada · Semana 3
+Nombre: Adrian
+Archivo: Conceptos básicos de Git
+
+========================================
+CONCEPTOS FUNDAMENTALES DE GIT
+========================================
+
+REPOSITORIO:
+Un repositorio (o "repo") es la carpeta principal donde Git almacena todos
+los archivos de un proyecto junto con el historial completo de cambios. Puede
+existir de forma local en tu computador o de forma remota en plataformas como
+GitHub. Es el punto central donde todo el trabajo queda guardado y organizado.
+
+COMMIT:
+Un commit es una fotografía del estado de tu proyecto en un momento específico.
+Cada vez que ejecutas git commit, Git guarda permanentemente los cambios que
+preparaste con git add, junto con un mensaje descriptivo. Los commits forman
+una línea de tiempo que permite saber quién cambió qué, cuándo y por qué,
+lo cual es esencial para la trazabilidad del proyecto.
+
+PUSH:
+El comando git push envía los commits guardados en tu repositorio local hacia
+el repositorio remoto (por ejemplo, en GitHub). Es el paso que hace que tu
+trabajo sea visible para otras personas o desde otros dispositivos. Sin hacer
+push, los cambios solo existen en tu computador y no quedan publicados.

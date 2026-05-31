@@ -1,0 +1,27 @@
+Tarea Guiada · Semana 3
+Nombre: Adrian
+Archivo: Reflexión de la semana
+
+========================================
+REFLEXIÓN: ¿POR QUÉ ES IMPORTANTE EL
+REGISTRO DE CAMBIOS CON GIT?
+========================================
+
+Mantener un registro de cambios usando herramientas como Git es fundamental
+en cualquier proyecto de software, porque permite que cada decisión técnica
+quede documentada y sea recuperable en cualquier momento. Cuando un proyecto
+crece o trabajan varias personas en él, es imposible recordar mentalmente todos
+los ajustes que se han hecho; Git actúa como una memoria colectiva y confiable.
+
+Gracias al historial de commits, si en algún momento se introduce un error o
+se rompe una funcionalidad, es posible identificar exactamente qué cambio lo
+causó y revertir el proyecto a un estado anterior sin perder el trabajo restante.
+Esto reduce enormemente el riesgo de pérdida de información y hace el desarrollo
+más seguro y ordenado.
+
+Además, la trazabilidad que ofrece Git es clave para el trabajo en equipo.
+Cada integrante puede ver qué hizo cada persona, cuándo lo hizo y con qué
+propósito, lo que facilita la colaboración, la revisión de código y la
+rendición de cuentas dentro del equipo. En definitiva, usar Git no es solo
+una buena práctica técnica: es una forma de trabajar con responsabilidad,
+transparencia y profesionalismo en cualquier proyecto digital.
