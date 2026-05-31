@@ -1,0 +1,29 @@
+Tarea Guiada · Semana 2
+Nombre: Adrian
+Curso: Programadores para la Paz
+
+========================================
+RESPUESTAS DE SELECCIÓN MÚLTIPLE
+========================================
+
+Pregunta 1: ¿Cuál es la función principal de la terminal en un sistema operativo?
+Respuesta: B
+Justificación: La terminal permite ejecutar comandos directamente para interactuar
+con el sistema operativo, sin necesidad de una interfaz gráfica. Es la herramienta
+fundamental con la que los desarrolladores controlan su entorno de trabajo.
+
+Pregunta 2: ¿Qué hace el comando pwd?
+Respuesta: B
+Justificación: pwd (Print Working Directory) muestra la ruta completa de la
+carpeta en la que te encuentras en ese momento dentro del sistema de archivos.
+Es útil para orientarse cuando se navega por la terminal.
+
+Pregunta 3: ¿Cuál comando permite ver los archivos y carpetas dentro del directorio actual?
+Respuesta: C
+Justificación: El comando ls (list) lista todos los archivos y carpetas que
+existen dentro del directorio en el que estás ubicado actualmente.
+
+Pregunta 4: ¿Cuál comando permite crear una carpeta nueva desde la terminal?
+Respuesta: B
+Justificación: mkdir (make directory) crea una nueva carpeta con el nombre
+que se le indique. Por ejemplo: mkdir semana2 crea la carpeta semana2.

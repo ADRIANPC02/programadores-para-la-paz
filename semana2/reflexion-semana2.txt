@@ -1,0 +1,27 @@
+Tarea Guiada · Semana 2
+Nombre: Adrian
+Archivo: Reflexión de la semana
+
+========================================
+REFLEXIÓN: ¿POR QUÉ ES IMPORTANTE PARA
+UN DESARROLLADOR SABER USAR LA TERMINAL?
+========================================
+
+Saber usar la terminal es una habilidad esencial para cualquier desarrollador,
+porque le permite interactuar directamente con el sistema operativo de forma
+precisa, rápida y sin depender de interfaces gráficas que no siempre están
+disponibles en todos los entornos de trabajo.
+
+A través de la terminal se pueden crear, mover, eliminar y organizar archivos
+y carpetas en segundos, lo que en un proyecto real puede significar la diferencia
+entre trabajar con orden o perder el control de la estructura del código. Un
+proyecto bien organizado es más fácil de mantener, compartir y escalar.
+
+Además, herramientas fundamentales del desarrollo moderno —como Git, Node.js,
+Python o cualquier gestor de paquetes— se usan principalmente desde la terminal.
+Un desarrollador que no domina la terminal depende siempre de otros, mientras que
+uno que la conoce puede resolver problemas de forma autónoma y eficiente.
+
+En definitiva, la terminal no es solo un recurso técnico: es el lenguaje con el
+que un programador le habla directamente a su máquina, y aprenderlo desde el
+principio construye una base sólida para todo lo que viene después.

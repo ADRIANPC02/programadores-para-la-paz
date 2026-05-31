@@ -1,0 +1,41 @@
+Tarea Guiada · Semana 2
+Nombre: Adrian
+Archivo: Comandos utilizados durante la actividad
+
+========================================
+REGISTRO DE COMANDOS DE TERMINAL
+========================================
+
+--- Navegación y exploración ---
+pwd
+ls
+
+--- Crear carpeta de la semana ---
+mkdir semana2
+cd semana2
+
+--- Crear archivos de la actividad ---
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+
+--- Verificar que los archivos fueron creados ---
+ls
+
+--- Publicar en el repositorio ---
+git add .
+git commit -m "Actividad semana 2"
+git push
+
+========================================
+DESCRIPCIÓN BREVE DE CADA COMANDO
+========================================
+
+pwd      → Muestra la ruta del directorio actual
+ls       → Lista archivos y carpetas del directorio actual
+mkdir    → Crea una nueva carpeta
+cd       → Cambia de directorio (entra a una carpeta)
+touch    → Crea un archivo vacío con el nombre indicado
+git add  → Agrega archivos al área de preparación
+git commit → Guarda un registro de los cambios realizados
+git push → Sube los cambios al repositorio remoto en GitHub
