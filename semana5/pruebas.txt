@@ -1,0 +1,21 @@
+=== Pruebas de las rutas ===
+
+1. http://localhost:3000
+   → Muestra el mensaje: "Servidor activo"
+
+2. http://localhost:3000/saludo
+   → Muestra el mensaje: "Hola comunidad"
+
+3. http://localhost:3000/mensaje/juan
+   → Muestra el mensaje: "Hola juan"
+
+4. Ruta POST /reporte
+   → Usando Postman o Thunder Client, se envía un JSON como:
+     {
+       "mensaje": "Este es un reporte de prueba"
+     }
+   → La respuesta es:
+     {
+       "estado": "Reporte recibido",
+       "mensaje": "Este es un reporte de prueba"
+     }

@@ -1,0 +1,19 @@
+Reflexión - Semana 5
+
+Las APIs pueden ser una herramienta poderosa para que las comunidades compartan
+información, reportes y alertas de manera organizada. Gracias a ellas, los vecinos
+pueden enviar datos desde sus teléfonos o computadores directamente a un sistema
+central que los almacena y distribuye de forma estructurada. Por ejemplo, si un
+habitante detecta una fuga de agua o un daño en la vía, puede reportarlo a través
+de una aplicación que usa una API, y ese mensaje llega al instante a la junta
+comunal o a las autoridades encargadas.
+
+Además, las APIs permiten que diferentes aplicaciones se conecten entre sí, lo
+que significa que la información de la comunidad podría llegar a múltiples canales
+al mismo tiempo: un mapa interactivo, un grupo de WhatsApp automatizado, un panel
+de control para los líderes comunales, o incluso una alerta por correo electrónico.
+Esto hace que la comunicación sea más rápida, clara y accesible para todos.
+
+En definitiva, construir una API comunitaria es dar el primer paso hacia una
+comunidad más conectada, participativa y capaz de resolver sus propios problemas
+de manera colectiva y organizada.
