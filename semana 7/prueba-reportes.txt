@@ -1,0 +1,58 @@
+Tarea Guiada · Semana 7
+Nombre: Adrian
+Archivo: Prueba de las rutas /reportes
+
+========================================
+PRUEBA 1: REGISTRAR UN REPORTE (POST)
+========================================
+
+Herramienta usada: Thunder Client (Visual Studio Code)
+
+--- JSON enviado a POST /reportes ---
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+--- Respuesta recibida ---
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+========================================
+PRUEBA 2: CONSULTAR LOS REPORTES (GET)
+========================================
+
+--- Respuesta recibida al hacer GET /reportes ---
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+========================================
+EXPLICACIÓN
+========================================
+
+Al enviar la petición POST, el servidor crea un objeto con un id automático
+(basado en la longitud del array más 1), junto con el tipo y la descripción
+enviados en el body, y lo agrega al array "reportes" en memoria.
+
+Al consultar con GET, el servidor responde con el array completo de reportes
+que se han registrado hasta el momento. Si se envían más reportes con POST,
+la siguiente consulta GET mostrará todos los reportes acumulados, cada uno
+con su propio id.
+
+Es importante notar que esta información se mantiene solo mientras el
+servidor está encendido: si se reinicia, el array vuelve a estar vacío,
+porque todavía no se está usando una base de datos persistente.

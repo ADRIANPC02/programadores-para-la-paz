@@ -1,0 +1,17 @@
+Información del sistema:
+
+1. Comando: uname -a
+   Información que muestra:
+   - Muestra información detallada del kernel del sistema operativo (nombre, versión, arquitectura, etc.).
+   - Ejemplo típico: Linux hostname 5.x.x-xxx #1 SMP ... x86_64 x86_64 x86_64 GNU/Linux
+
+2. Comando: whoami
+   Información que muestra:
+   - Muestra el nombre del usuario actual que está logueado en la terminal.
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+
+- Permite verificar la versión del sistema operativo y del kernel para aplicar actualizaciones de seguridad o parches específicos.
+- Ayuda a diagnosticar problemas de compatibilidad.
+- whoami confirma bajo qué usuario se están ejecutando los comandos (importante para permisos y seguridad).
+- Es fundamental para documentar el entorno del servidor y tomar decisiones administrativas correctas.

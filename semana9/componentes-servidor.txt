@@ -1,0 +1,14 @@
+Sistema operativo:
+Es la base sobre la que corre todo. Proporciona los recursos hardware (CPU, memoria, disco) y gestiona los procesos. Sin un SO estable el servidor no puede funcionar de forma confiable.
+
+Node.js:
+Es el entorno de ejecución de JavaScript en el servidor. Permite correr código JavaScript fuera del navegador y crear servidores web de alto rendimiento gracias a su modelo asíncrono y single-threaded.
+
+Aplicación server.js:
+Es el archivo principal de nuestra aplicación. Contiene la lógica del servidor (rutas, middlewares, controladores). Es donde definimos cómo responde el servidor a las peticiones de los usuarios.
+
+Puerto:
+Es el "canal" o puerta de comunicación (en este caso el 3000) por donde el servidor escucha las solicitudes que llegan desde el navegador o clientes. Es necesario para que el servidor pueda recibir tráfico.
+
+Logs:
+Son registros de todo lo que sucede en el servidor (errores, accesos, eventos importantes). Ayudan a diagnosticar problemas, monitorizar el rendimiento y mantener la seguridad del sistema.

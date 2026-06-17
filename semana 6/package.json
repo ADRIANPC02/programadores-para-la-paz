@@ -1,0 +1,15 @@
+{
+  "name": "semana6",
+  "version": "1.0.0",
+  "description": "Servidor con rutas POST y manejo de JSON - Actividad Semana 6",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Adrian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

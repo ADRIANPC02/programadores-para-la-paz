@@ -1,0 +1,31 @@
+Tarea Guiada · Semana 7
+Nombre: Adrian
+Curso: Programadores para la Paz
+
+========================================
+RESPUESTAS DE SELECCIÓN MÚLTIPLE
+========================================
+
+Pregunta 1: ¿Qué es un array en programación?
+Respuesta: B
+Justificación: Un array es una estructura de datos que permite almacenar
+varios valores en una sola lista ordenada. En JavaScript se define con
+corchetes [] y cada elemento puede accederse mediante su posición (índice).
+
+Pregunta 2: ¿Qué método HTTP se utiliza normalmente para consultar datos existentes?
+Respuesta: B
+Justificación: GET es el método HTTP usado para pedir o consultar información
+del servidor sin modificarla. Por ejemplo, GET /reportes devuelve la lista
+completa de reportes almacenados.
+
+Pregunta 3: ¿Qué método HTTP se usa normalmente para agregar información nueva?
+Respuesta: B
+Justificación: POST es el método HTTP usado para enviar información nueva
+al servidor. Por ejemplo, POST /reportes agrega un nuevo reporte al array
+en memoria.
+
+Pregunta 4: ¿Cuál es el propósito de una API en una aplicación?
+Respuesta: B
+Justificación: El propósito de una API es permitir que diferentes sistemas
+o aplicaciones intercambien información entre sí, mediante rutas que
+definen cómo solicitar o enviar datos.

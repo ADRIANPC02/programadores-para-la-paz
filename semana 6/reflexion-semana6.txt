@@ -1,0 +1,29 @@
+Tarea Guiada · Semana 6
+Nombre: Adrian
+Archivo: Reflexión de la semana
+
+========================================
+REFLEXIÓN: ¿POR QUÉ ES IMPORTANTE QUE
+LAS PLATAFORMAS TECNOLÓGICAS PUEDAN
+RECIBIR REPORTES CIUDADANOS DE FORMA
+ESTRUCTURADA?
+========================================
+
+Cuando los ciudadanos pueden enviar información estructurada a una plataforma
+digital, los datos dejan de perderse en mensajes de voz o chats informales y
+se convierten en registros organizados, rastreables y listos para ser analizados.
+Esa diferencia es clave para cualquier iniciativa que quiera tomar decisiones
+basadas en información real de su territorio.
+
+En comunidades como las del Canal del Dique, donde existen problemáticas
+ambientales, sociales y de infraestructura que rara vez llegan a las instancias
+oficiales, contar con un sistema de reporte estructurado —como la ruta
+/incidencia que construimos esta semana— daría voz digital a situaciones que
+de otro modo quedarían invisibles. Cada reporte con tipo y descripción es una
+evidencia que puede ser presentada ante autoridades o medios.
+
+Además, la estructura JSON garantiza que la información sea legible por máquinas,
+lo que permite automatizar procesos: contabilizar cuántos reportes son del mismo
+tipo, generar alertas o cruzar datos con otras fuentes. Esto convierte a la
+tecnología en una herramienta real de participación ciudadana y veeduría,
+no solo en un canal de comunicación más.

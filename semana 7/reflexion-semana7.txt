@@ -1,0 +1,27 @@
+Tarea Guiada · Semana 7
+Nombre: Adrian
+Archivo: Reflexión de la semana
+
+========================================
+REFLEXIÓN: ¿POR QUÉ ES IMPORTANTE QUE
+LAS COMUNIDADES PUEDAN REGISTRAR Y
+CONSULTAR REPORTES EN UNA PLATAFORMA
+TECNOLÓGICA?
+========================================
+
+Que una comunidad pueda registrar y luego consultar sus propios reportes marca
+una diferencia enorme frente a simplemente enviarlos y perder su rastro. Con un
+sistema como el que construimos esta semana, cada incidencia queda guardada con
+un identificador único, y cualquier persona puede consultar en cualquier momento
+qué se ha reportado y en qué estado se encuentra esa información.
+
+Esta capacidad de consulta convierte a la plataforma en una herramienta de
+memoria colectiva: permite ver patrones, por ejemplo, si muchos reportes son
+del mismo tipo (como problemas ambientales en el Canal del Dique), lo que da
+evidencia para exigir soluciones ante las autoridades correspondientes.
+
+Aunque en esta práctica los datos se guardan solo en memoria y se pierden al
+reiniciar el servidor, el ejercicio sienta las bases para entender cómo
+funcionaría un sistema real con base de datos: cada reporte que entra por
+POST queda disponible para ser consultado por GET, exactamente como
+funcionaría una plataforma comunitaria de veeduría ciudadana en producción.

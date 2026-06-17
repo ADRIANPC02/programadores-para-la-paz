@@ -1,0 +1,37 @@
+Tarea Guiada · Semana 6
+Nombre: Adrian
+Archivo: Prueba de la API - Ruta /registro
+
+========================================
+PRUEBA DE LA RUTA POST /registro
+========================================
+
+Herramienta usada: Thunder Client (Visual Studio Code)
+
+--- JSON enviado al servidor ---
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+--- Respuesta recibida del servidor ---
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+--- Explicación de la respuesta ---
+
+El servidor recibió correctamente los datos enviados en la petición POST.
+Gracias al middleware express.json(), Express pudo leer el cuerpo de la
+solicitud y acceder a los campos mediante req.body.nombre y req.body.mensaje.
+
+El servidor respondió con un objeto JSON que confirma la recepción de los
+datos, incluyendo el campo "estado" con el mensaje "Datos recibidos" y
+devolviendo los mismos valores de nombre y mensaje que fueron enviados.
+
+Esto demuestra que la ruta /registro funciona correctamente y que el flujo
+cliente → servidor → respuesta se completa sin errores.

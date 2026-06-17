@@ -1,0 +1,5 @@
+Es fundamental que las plataformas tecnológicas funcionen de manera estable y segura en un servidor porque son la base de miles de interacciones diarias de una comunidad. 
+
+Un servidor inestable provoca caídas del servicio, frustración de los usuarios y pérdida de confianza. Una falla de seguridad puede exponer datos personales, credenciales o información sensible de los miembros de la comunidad, lo que puede tener consecuencias graves (robo de identidad, acoso, pérdida de privacidad).
+
+Mantener estabilidad garantiza que las personas puedan comunicarse, compartir conocimiento y participar sin interrupciones. La seguridad protege la integridad de la plataforma y genera un espacio digital confiable. En resumen, un servidor estable y seguro es la infraestructura invisible que permite que una comunidad digital crezca sana y sostenible.

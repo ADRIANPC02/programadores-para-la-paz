@@ -1,0 +1,28 @@
+Tarea Guiada · Semana 7
+Nombre: Adrian
+Archivo: Ejemplos de reportes ciudadanos
+
+========================================
+EJEMPLOS DE REPORTES PARA POST /reportes
+========================================
+
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en el alumbrado público de la calle principal del corregimiento"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos sólidos cerca de la orilla del Canal del Dique, lo que afecta la salud y el paisaje de la comunidad"
+}
+
+========================================
+NOTA
+========================================
+
+Ambos ejemplos representan situaciones reales que podrían reportar miembros
+de una comunidad como la Red Joven Canal del Dique a través de un sistema
+como este. Cada reporte queda registrado con un id único y puede consultarse
+posteriormente mediante GET /reportes.

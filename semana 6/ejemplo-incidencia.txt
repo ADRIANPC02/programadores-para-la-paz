@@ -1,0 +1,31 @@
+Tarea Guiada · Semana 6
+Nombre: Adrian
+Archivo: Ejemplo de reporte ciudadano - Ruta /incidencia
+
+========================================
+EJEMPLO DE JSON PARA REPORTAR UNA
+INCIDENCIA DESDE LA COMUNIDAD
+========================================
+
+--- JSON enviado por el ciudadano ---
+
+{
+  "tipo": "Contaminación hídrica",
+  "descripcion": "Habitantes del corregimiento reportan vertimientos de aguas residuales en un caño tributario del Canal del Dique, afectando el acceso al agua limpia de varias familias del sector."
+}
+
+--- Respuesta del servidor ---
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Contaminación hídrica",
+  "descripcion": "Habitantes del corregimiento reportan vertimientos de aguas residuales en un caño tributario del Canal del Dique, afectando el acceso al agua limpia de varias familias del sector."
+}
+
+--- Por qué este ejemplo es relevante ---
+
+El Canal del Dique es un territorio donde las comunidades frecuentemente
+enfrentan problemáticas ambientales relacionadas con el agua. Un sistema
+de reporte estructurado como este permitiría a organizaciones como la Red
+Joven Canal del Dique recibir incidencias ciudadanas de forma organizada,
+con campos claros (tipo y descripción), para darles seguimiento y visibilidad.

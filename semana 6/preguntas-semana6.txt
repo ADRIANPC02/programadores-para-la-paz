@@ -1,0 +1,32 @@
+Tarea Guiada · Semana 6
+Nombre: Adrian
+Curso: Programadores para la Paz
+
+========================================
+RESPUESTAS DE SELECCIÓN MÚLTIPLE
+========================================
+
+Pregunta 1: ¿Qué es JSON?
+Respuesta: B
+Justificación: JSON (JavaScript Object Notation) es un formato de intercambio
+de datos usado entre aplicaciones. Permite estructurar información de forma
+legible tanto para personas como para máquinas, y es el estándar más usado
+para enviar datos entre un cliente y un servidor web.
+
+Pregunta 2: ¿Qué permite express.json() en una aplicación Express?
+Respuesta: B
+Justificación: express.json() es un middleware que habilita a Express para
+leer datos enviados en formato JSON en el cuerpo de una petición. Sin él,
+req.body aparecería como undefined al recibir una solicitud POST con JSON.
+
+Pregunta 3: ¿Dónde se encuentran los datos enviados en una petición POST?
+Respuesta: B
+Justificación: Cuando un cliente envía datos en formato JSON mediante una
+petición POST, Express los pone disponibles en req.body. Desde allí se puede
+acceder a cada campo: req.body.nombre, req.body.mensaje, etc.
+
+Pregunta 4: ¿Cuál opción representa correctamente un objeto JSON?
+Respuesta: C
+Justificación: Un objeto JSON válido usa llaves {}, las claves van entre
+comillas dobles y los valores de texto también. La forma correcta es:
+{ "nombre": "Juan" }. Las otras opciones no respetan la sintaxis JSON.
